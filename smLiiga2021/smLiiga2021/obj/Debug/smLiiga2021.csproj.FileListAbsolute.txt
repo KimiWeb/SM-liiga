@@ -1,0 +1,30 @@
+C:\Users\KimiPC\Desktop\SMliiga2021\smLiiga2021\smLiiga2021\bin\Debug\smLiiga2021.exe.config
+C:\Users\KimiPC\Desktop\SMliiga2021\smLiiga2021\smLiiga2021\bin\Debug\smLiiga2021.exe
+C:\Users\KimiPC\Desktop\SMliiga2021\smLiiga2021\smLiiga2021\bin\Debug\smLiiga2021.pdb
+C:\Users\KimiPC\Desktop\SMliiga2021\smLiiga2021\smLiiga2021\obj\Debug\smLiiga2021.csprojAssemblyReference.cache
+C:\Users\KimiPC\Desktop\SMliiga2021\smLiiga2021\smLiiga2021\obj\Debug\MainWindow.g.cs
+C:\Users\KimiPC\Desktop\SMliiga2021\smLiiga2021\smLiiga2021\obj\Debug\App.g.cs
+C:\Users\KimiPC\Desktop\SMliiga2021\smLiiga2021\smLiiga2021\obj\Debug\smLiiga2021_MarkupCompile.cache
+C:\Users\KimiPC\Desktop\SMliiga2021\smLiiga2021\smLiiga2021\obj\Debug\smLiiga2021_MarkupCompile.lref
+C:\Users\KimiPC\Desktop\SMliiga2021\smLiiga2021\smLiiga2021\obj\Debug\MainWindow.baml
+C:\Users\KimiPC\Desktop\SMliiga2021\smLiiga2021\smLiiga2021\obj\Debug\smLiiga2021.g.resources
+C:\Users\KimiPC\Desktop\SMliiga2021\smLiiga2021\smLiiga2021\obj\Debug\smLiiga2021.Properties.Resources.resources
+C:\Users\KimiPC\Desktop\SMliiga2021\smLiiga2021\smLiiga2021\obj\Debug\smLiiga2021.csproj.GenerateResource.cache
+C:\Users\KimiPC\Desktop\SMliiga2021\smLiiga2021\smLiiga2021\obj\Debug\smLiiga2021.csproj.CoreCompileInputs.cache
+C:\Users\KimiPC\Desktop\SMliiga2021\smLiiga2021\smLiiga2021\obj\Debug\smLiiga2021.exe
+C:\Users\KimiPC\Desktop\SMliiga2021\smLiiga2021\smLiiga2021\obj\Debug\smLiiga2021.pdb
+C:\Users\KimiPC\Desktop\SMliiga2021 Kimi Öling\smLiiga2021\smLiiga2021\bin\Debug\smLiiga2021.exe.config
+C:\Users\KimiPC\Desktop\SMliiga2021 Kimi Öling\smLiiga2021\smLiiga2021\bin\Debug\smLiiga2021.exe
+C:\Users\KimiPC\Desktop\SMliiga2021 Kimi Öling\smLiiga2021\smLiiga2021\bin\Debug\smLiiga2021.pdb
+C:\Users\KimiPC\Desktop\SMliiga2021 Kimi Öling\smLiiga2021\smLiiga2021\obj\Debug\smLiiga2021.csprojAssemblyReference.cache
+C:\Users\KimiPC\Desktop\SMliiga2021 Kimi Öling\smLiiga2021\smLiiga2021\obj\Debug\MainWindow.g.cs
+C:\Users\KimiPC\Desktop\SMliiga2021 Kimi Öling\smLiiga2021\smLiiga2021\obj\Debug\App.g.cs
+C:\Users\KimiPC\Desktop\SMliiga2021 Kimi Öling\smLiiga2021\smLiiga2021\obj\Debug\smLiiga2021_MarkupCompile.cache
+C:\Users\KimiPC\Desktop\SMliiga2021 Kimi Öling\smLiiga2021\smLiiga2021\obj\Debug\smLiiga2021_MarkupCompile.lref
+C:\Users\KimiPC\Desktop\SMliiga2021 Kimi Öling\smLiiga2021\smLiiga2021\obj\Debug\MainWindow.baml
+C:\Users\KimiPC\Desktop\SMliiga2021 Kimi Öling\smLiiga2021\smLiiga2021\obj\Debug\smLiiga2021.g.resources
+C:\Users\KimiPC\Desktop\SMliiga2021 Kimi Öling\smLiiga2021\smLiiga2021\obj\Debug\smLiiga2021.Properties.Resources.resources
+C:\Users\KimiPC\Desktop\SMliiga2021 Kimi Öling\smLiiga2021\smLiiga2021\obj\Debug\smLiiga2021.csproj.GenerateResource.cache
+C:\Users\KimiPC\Desktop\SMliiga2021 Kimi Öling\smLiiga2021\smLiiga2021\obj\Debug\smLiiga2021.csproj.CoreCompileInputs.cache
+C:\Users\KimiPC\Desktop\SMliiga2021 Kimi Öling\smLiiga2021\smLiiga2021\obj\Debug\smLiiga2021.exe
+C:\Users\KimiPC\Desktop\SMliiga2021 Kimi Öling\smLiiga2021\smLiiga2021\obj\Debug\smLiiga2021.pdb

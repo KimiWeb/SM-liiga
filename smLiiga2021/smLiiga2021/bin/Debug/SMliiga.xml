@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Joukkueet>
+  <Joukkue nimi="Kärpät">
+    <Pelaajat>
+		<Pelaaja>
+			<Nimi>Annunen, Justus</Nimi>
+			<Pelaajanro>30</Pelaajanro>
+		</Pelaaja>
+		<Pelaaja>
+			<Nimi>Hermonen, Julius</Nimi>
+			<Pelaajanro>23</Pelaajanro>
+		</Pelaaja>
+		<Pelaaja>
+			<Nimi>Junttila, Julius</Nimi>
+			<Pelaajanro>31</Pelaajanro>
+		</Pelaaja>
+		<Pelaaja>
+			<Nimi>Kukkonen, Lasse</Nimi>
+			<Pelaajanro>24</Pelaajanro>
+		</Pelaaja>
+	</Pelaajat>
+  </Joukkue>
+  <Joukkue nimi="Tappara">
+    <Pelaajat>
+		<Pelaaja>
+			<Nimi>Bertrand, Charles</Nimi>
+			<Pelaajanro>9</Pelaajanro>
+		</Pelaaja>
+		<Pelaaja>
+			<Nimi>Heljanko, Christian</Nimi>
+			<Pelaajanro>30</Pelaajanro>
+		</Pelaaja>
+	</Pelaajat>
+  </Joukkue>
+  <Joukkue nimi="KooKoo">
+    <Pelaajat>
+		<Pelaaja>
+			<Nimi>Berger, Martin</Nimi>
+			<Pelaajanro>40</Pelaajanro>
+		</Pelaaja>
+		<Pelaaja>
+			<Nimi>Bonsaksen, Alexander</Nimi>
+			<Pelaajanro>40</Pelaajanro>
+		</Pelaaja>
+	</Pelaajat>
+  </Joukkue>
+  <Joukkue nimi="Ilves">
+    <Pelaajat>
+		<Pelaaja>
+			<Nimi>Ahopelto, Erik</Nimi>
+			<Pelaajanro>17</Pelaajanro>
+		</Pelaaja>
+		<Pelaaja>
+			<Nimi>Antonen, Joose</Nimi>
+			<Pelaajanro>48</Pelaajanro>
+		</Pelaaja>
+	</Pelaajat>
+  </Joukkue>
+  <Joukkue nimi="Lukko">
+    <Pelaajat>
+		<Pelaaja>
+			<Nimi>Heinola, Ville</Nimi>
+			<Pelaajanro>14</Pelaajanro>
+		</Pelaaja>
+		<Pelaaja>
+			<Nimi>Koivisto, Toni</Nimi>
+			<Pelaajanro>22</Pelaajanro>
+		</Pelaaja>
+	</Pelaajat>
+  </Joukkue>
+  <Joukkue nimi="HIFK">
+    <Pelaajat>
+		<Pelaaja>
+			<Nimi>Engberg, Teemu</Nimi>
+			<Pelaajanro>52</Pelaajanro>
+		</Pelaaja>
+		<Pelaaja>
+			<Nimi>Engren, Atte</Nimi>
+			<Pelaajanro>53</Pelaajanro>
+		</Pelaaja>
+	</Pelaajat>
+  </Joukkue>
+  <Joukkue nimi="HPK">
+      <Pelaajat>
+		<Pelaaja>
+			<Nimi>Laatikainen, Arto</Nimi>
+			<Pelaajanro>42</Pelaajanro>
+		</Pelaaja>	
+		<Pelaaja>
+			<Nimi>Cornet, Philippe</Nimi>
+			<Pelaajanro>51</Pelaajanro>
+		</Pelaaja>
+		<Pelaaja>
+			<Nimi>Eronen, Elmeri</Nimi>
+			<Pelaajanro>53</Pelaajanro>
+		</Pelaaja>
+	</Pelaajat>
+  </Joukkue>
+  <Joukkue nimi="JYP">
+      <Pelaajat>
+		<Pelaaja>
+			<Nimi>Allén, Roni</Nimi>
+			<Pelaajanro>36</Pelaajanro>
+		</Pelaaja>	
+		<Pelaaja>
+			<Nimi>Honka, Anttoni</Nimi>
+			<Pelaajanro>3</Pelaajanro>
+		</Pelaaja>
+	</Pelaajat>
+  </Joukkue>
+  <Joukkue nimi="Ässät">
+    <Pelaajat>
+		<Pelaaja>
+			<Nimi>Haapanen, Topias</Nimi>
+			<Pelaajanro>33</Pelaajanro>
+		</Pelaaja>
+		<Pelaaja>
+			<Nimi>Henttonen, Toni</Nimi>
+			<Pelaajanro>34</Pelaajanro>
+		</Pelaaja>
+	</Pelaajat>
+  </Joukkue>
+  <Joukkue nimi="Kalpa">
+    <Pelaajat>
+		<Pelaaja>
+			<Nimi>Aittokallio, Sami</Nimi>
+			<Pelaajanro>88</Pelaajanro>
+		</Pelaaja>
+		<Pelaaja>
+			<Nimi>Appelgren, Niklas</Nimi>
+			<Pelaajanro>89</Pelaajanro>
+		</Pelaaja>
+	</Pelaajat>
+  </Joukkue>
+  <Joukkue nimi="TPS">
+    <Pelaajat>
+		<Pelaaja>
+			<Nimi>Anttalainen, Aleksi</Nimi>
+			<Pelaajanro>4</Pelaajanro>
+		</Pelaaja>
+		<Pelaaja>
+			<Nimi>Anttila, Eetu</Nimi>
+			<Pelaajanro>5</Pelaajanro>
+		</Pelaaja>
+	</Pelaajat>
+  </Joukkue>
+  <Joukkue nimi="Saipa">
+    <Pelaajat>
+		<Pelaaja>
+			<Nimi>Grman, Mario</Nimi>
+			<Pelaajanro>23</Pelaajanro>
+		</Pelaaja>
+		<Pelaaja>
+			<Nimi>Iso-Mustajärvi, Tomi</Nimi>
+			<Pelaajanro>55</Pelaajanro>
+		</Pelaaja>
+	</Pelaajat>
+  </Joukkue>
+  <Joukkue nimi="Pelicans">
+    <Pelaajat>
+		<Pelaaja>
+			<Nimi>Autio, Erik</Nimi>
+			<Pelaajanro>6</Pelaajanro>
+		</Pelaaja>
+		<Pelaaja>
+			<Nimi> Auvinen, Severi </Nimi>
+			<Pelaajanro>7</Pelaajanro>
+		</Pelaaja>
+	</Pelaajat>
+  </Joukkue>
+  <Joukkue nimi="Jukurit">
+    <Pelaajat>
+		<Pelaaja>
+			<Nimi>Aho, Juhana</Nimi>
+			<Pelaajanro>17</Pelaajanro>
+		</Pelaaja>
+		<Pelaaja>
+			<Nimi>Haarti, Jaakko</Nimi>
+			<Pelaajanro>18</Pelaajanro>
+		</Pelaaja>
+	</Pelaajat>
+  </Joukkue>
+  <Joukkue nimi="Sport">
+    <Pelaajat>
+		<Pelaaja>
+			<Nimi>Haarala, Santeri</Nimi>
+			<Pelaajanro>21</Pelaajanro>
+		</Pelaaja>
+		<Pelaaja>
+			<Nimi>Asplund, Turo</Nimi>
+			<Pelaajanro>23</Pelaajanro>
+		</Pelaaja>		<Pelaaja>
+			<Nimi>Erkinjuntti, Antti</Nimi>
+			<Pelaajanro>74</Pelaajanro>
+		</Pelaaja>
+		<Pelaaja>
+			<Nimi>Hovinen, Niko</Nimi>
+			<Pelaajanro>32</Pelaajanro>
+		</Pelaaja>
+	</Pelaajat>
+  </Joukkue>
+</Joukkueet>
+
